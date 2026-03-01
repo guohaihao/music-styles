@@ -1,0 +1,29 @@
+{
+  "name": "jmp-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n styles,next -c yellow,cyan \"npm:dev:watch\" \"npm:dev:next\"",
+    "dev:next": "next dev",
+    "dev:watch": "node scripts/watch_styles.mjs",
+    "build": "next build",
+    "start": "next start",
+    "build:styles": "node scripts/build_styles.mjs"
+  },
+  "dependencies": {
+    "next": "15.2.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.10",
+    "@types/react": "19.0.10",
+    "@types/react-dom": "19.0.4",
+    "autoprefixer": "10.4.20",
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.14",
+    "postcss": "8.5.3",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.8.2"
+  }
+}

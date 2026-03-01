@@ -1,0 +1,489 @@
+[
+  {
+    "style_id": 1,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Look Who's Blue",
+            "performer": "Don Gibson"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Pleasant Valley Sunday",
+            "performer": "The Monkees"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Jumbo",
+            "performer": "Bee Gees"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Ain't Nothing Like The Real Thing",
+            "performer": "Donny & Marie Osmond"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "The Wanderer",
+            "performer": "Leif Garrett"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "The Blues",
+            "performer": "Randy Newman & Paul Simon"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Buffalo Stance",
+            "performer": "Neneh Cherry"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Murder She Wrote",
+            "performer": "Chaka Demus & Pliers"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Reality",
+            "performer": "Elusion"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "X Gon' Give It To Ya",
+            "performer": "DMX"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "I Won't Tell",
+            "performer": "Fat Joe Featuring J. Holiday"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "All In My Head (Flex)",
+            "performer": "Fifth Harmony Featuring Fetty Wap"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 1 shows lower-than-average tempo BPM (-1.91), swing (-0.48).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 2,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Light Of Love",
+            "performer": "Peggy Lee"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "How Can I Forget",
+            "performer": "Ben E. King"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Apologize",
+            "performer": "Ed Ames"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Behind Closed Doors",
+            "performer": "Charlie Rich"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "It's Late",
+            "performer": "Queen"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "(You Can Still) Rock In America",
+            "performer": "Night Ranger"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Going Home",
+            "performer": "Kenny G"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "I Should Be Laughing",
+            "performer": "Patty Smyth"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Lost In You",
+            "performer": "Garth Brooks as Chris Gaines"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Chrome",
+            "performer": "Trace Adkins"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "She's Country",
+            "performer": "Jason Aldean"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Demons",
+            "performer": "Imagine Dragons"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 2 shows higher-than-average swing (+0.52) and lower-than-average tempo BPM (-4.66).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 3,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "One Summer Night",
+            "performer": "The Danleers"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Young Lovers",
+            "performer": "Paul and Paula"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Tiny Dancer",
+            "performer": "Elton John"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Rock 'N Roll (I Gave You The Best Years of My Life)",
+            "performer": "Kevin Johnson"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "On The Way To The Sky",
+            "performer": "Neil Diamond"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Black Velvet",
+            "performer": "Alannah Myles"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Come With Me",
+            "performer": "Shai"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Fly (The Angel Song)",
+            "performer": "The Wilkinsons"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Flashing Lights",
+            "performer": "Kanye West Featuring Dwele"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Pure Imagination",
+            "performer": "Glee Cast"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Make It Rain",
+            "performer": "Ed Sheeran"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 3 shows higher-than-average tempo BPM (+2.97), swing (+0.52).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 4,
+    "year_range": {
+      "start": 1978,
+      "end": 1988
+    },
+    "timeline": [
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "The Very Best In You",
+            "performer": "Change"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "The Honeythief",
+            "performer": "Hipsway"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "What You See Is What You Get",
+            "performer": "Brenda K. Starr"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 4 shows higher-than-average tempo BPM (+4.80) and lower-than-average swing (-0.48).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 5,
+    "year_range": {
+      "start": 1968,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Out In The Country",
+            "performer": "Three Dog Night"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Listen To The Buddha",
+            "performer": "Ozo"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Sweetheart",
+            "performer": "Franke & The Knockouts"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Escalator Of Life",
+            "performer": "Robert Hazard"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Silent Lucidity",
+            "performer": "Queensryche"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Never Find Someone Like You",
+            "performer": "Keith Martin"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Put Me Down",
+            "performer": "Donell Jones"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "How You Want That",
+            "performer": "Loon Featuring Kelis"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "My Apocalypse",
+            "performer": "Metallica"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Bruises",
+            "performer": "Train Featuring Ashley Monroe"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 5 shows higher-than-average tempo BPM (+3.19) and lower-than-average swing (-0.48).",
+    "manual_description": ""
+  }
+]

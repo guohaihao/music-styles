@@ -1,0 +1,401 @@
+[
+  {
+    "style_id": 1,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Goodbye Dad",
+            "performer": "The Castle Sisters"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Where Love Has Gone",
+            "performer": "Jack Jones"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Kiss An Angel Good Mornin'",
+            "performer": "Charley Pride"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Sing",
+            "performer": "Tony Orlando & Dawn"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "If You Want It",
+            "performer": "Niteflyte"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Little Sheila",
+            "performer": "Slade"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Candy",
+            "performer": "Iggy Pop With Kate Pierson"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Waiting For Wednesday",
+            "performer": "Lisa Loeb & Nine Stories"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "One Last Breath",
+            "performer": "Creed"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Sorry",
+            "performer": "Buckcherry"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "One",
+            "performer": "Adam Lambert"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Real Life",
+            "performer": "The Weeknd"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 1 shows higher-than-average key sin (+0.79), key is major (+0.22), key cos (+0.12) and lower-than-average Key degree (-1.95), average fifths distance (-0.06), extended any ratio (-0.01).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 2,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Patti Ann",
+            "performer": "Johnny Crawford"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "We Could",
+            "performer": "Al Martino"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Where Did All The Good Times Go",
+            "performer": "Dennis Yost And The Classics IV"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "I'll Have To Say I Love You In A Song",
+            "performer": "Jim Croce"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Goodbye To You",
+            "performer": "Scandal Featuring Patty Smyth"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Learning To Fly",
+            "performer": "Pink Floyd"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "We Didn't Start The Fire",
+            "performer": "Billy Joel"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Lullabye (Goodnight, My Angel)",
+            "performer": "Billy Joel"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "I'm Gonna Miss Her (The Fishin' Song)",
+            "performer": "Brad Paisley"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Love Me Right (Oh Sheila)",
+            "performer": "Angel City Featuring Lara McAllen"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Enchanted",
+            "performer": "Taylor Swift"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Top Of The World",
+            "performer": "Tim McGraw"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 2 shows higher-than-average Key degree (+3.05), key is major (+0.22) and lower-than-average key sin (-0.80), key cos (-0.36), average fifths distance (-0.02).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 3,
+    "year_range": {
+      "start": 1958,
+      "end": 1978
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Like, Long Hair",
+            "performer": "Paul Revere & The Raiders"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "It's An Uphill Climb To The Bottom",
+            "performer": "Walter Jackson"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Problem Child",
+            "performer": "Mark Lindsay"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Touch And Go",
+            "performer": "Al Wilson"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Put Away Your Love",
+            "performer": "Alessi"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 3 shows higher-than-average key cos (+1.04), key is major (+0.22), key sin (+0.18) and lower-than-average Key degree (-4.55), average fifths distance (-0.08), non-basic edge ratio (-0.01).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 4,
+    "year_range": {
+      "start": 1983,
+      "end": 1998
+    },
+    "timeline": [
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "I Still Want You",
+            "performer": "The Del Fuegos"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Change",
+            "performer": "Lisa Stansfield"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Right Beside You",
+            "performer": "Sophie B. Hawkins"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Livin' It Up",
+            "performer": "Ja Rule Featuring Case"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 4 shows higher-than-average Key degree (+3.30), extended any ratio (+0.04) and lower-than-average key sin (-0.86), key is major (-0.78), key cos (-0.25).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 5,
+    "year_range": {
+      "start": 2003,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Headstrong",
+            "performer": "Trapt"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Take It Off",
+            "performer": "Ke$ha"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "The Matrimony",
+            "performer": "Wale Featuring Usher"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 5 shows higher-than-average key sin (+0.61), average fifths distance (+0.58), non-basic edge ratio (+0.13) and lower-than-average key is major (-0.78), key cos (-0.65), Key degree (-0.28).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 6,
+    "year_range": {
+      "start": 1993,
+      "end": 1993
+    },
+    "timeline": [
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Brooklyn Zoo",
+            "performer": "Ol' Dirty Bastard"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 6 shows higher-than-average key sin (+0.85), key cos (+0.60), extended any ratio (+0.08) and lower-than-average Key degree (-2.95), key is major (-0.78), average fifths distance (-0.34).",
+    "manual_description": ""
+  }
+]

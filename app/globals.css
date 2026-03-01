@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+  --font-body: "Avenir Next", "Segoe UI", sans-serif;
+  --color-ink: #14213d;
+  --color-muted: #52607a;
+  --color-line: rgba(20, 33, 61, 0.12);
+  --color-surface: rgba(255, 255, 255, 0.72);
+  --color-surface-strong: #ffffff;
+  --color-accent: #e88d37;
+  --color-accent-soft: #fff0df;
+  --page-glow: radial-gradient(circle at top left, rgba(232, 141, 55, 0.28), transparent 34%),
+    radial-gradient(circle at top right, rgba(10, 147, 150, 0.16), transparent 32%),
+    linear-gradient(180deg, #fffaf4 0%, #f8fbff 100%);
+  --stage-base: linear-gradient(180deg, #0b1224 0%, #17213a 42%, #24314c 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--stage-base);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+audio {
+  filter: sepia(0.2) saturate(0.9);
+}
+
+.glass-panel {
+  background: var(--color-surface);
+  backdrop-filter: blur(16px);
+}
+
+.stage-shell {
+  position: relative;
+  isolation: isolate;
+}
+
+.stage-backdrop {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 18% 10%, rgba(255, 186, 94, 0.34), transparent 18%),
+    radial-gradient(circle at 78% 12%, rgba(109, 193, 255, 0.28), transparent 20%),
+    radial-gradient(circle at 50% 24%, rgba(255, 126, 95, 0.18), transparent 24%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent 22%),
+    linear-gradient(180deg, rgba(7, 12, 25, 0.96) 0%, rgba(19, 29, 52, 0.94) 38%, rgba(30, 43, 69, 0.92) 100%);
+}
+
+.stage-backdrop::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(110deg, transparent 0%, rgba(255, 255, 255, 0.08) 16%, transparent 28%) 0 0 / 34% 100%,
+    linear-gradient(70deg, transparent 0%, rgba(255, 255, 255, 0.05) 15%, transparent 26%) 38% 0 / 34% 100%,
+    linear-gradient(115deg, transparent 0%, rgba(255, 255, 255, 0.06) 16%, transparent 28%) 76% 0 / 34% 100%;
+  mix-blend-mode: screen;
+  opacity: 0.55;
+}
+
+.stage-backdrop::after {
+  content: "";
+  position: absolute;
+  inset: auto -12% -10% -12%;
+  height: 38vh;
+  background:
+    radial-gradient(ellipse at 50% 100%, rgba(255, 194, 121, 0.22), transparent 46%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(0, 0, 0, 0.28));
+  filter: blur(12px);
+}
+
+.stage-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(22px);
+  opacity: 0.65;
+}
+
+.stage-orb-left {
+  top: 14%;
+  left: -3rem;
+  height: 14rem;
+  width: 14rem;
+  background: radial-gradient(circle, rgba(255, 193, 102, 0.5), rgba(255, 193, 102, 0));
+}
+
+.stage-orb-right {
+  top: 8%;
+  right: -2rem;
+  height: 16rem;
+  width: 16rem;
+  background: radial-gradient(circle, rgba(90, 182, 255, 0.42), rgba(90, 182, 255, 0));
+}
+
+.stage-orb-floor {
+  bottom: 4%;
+  left: 50%;
+  height: 18rem;
+  width: 36rem;
+  transform: translateX(-50%);
+  background: radial-gradient(circle, rgba(255, 146, 112, 0.2), rgba(255, 146, 112, 0));
+}
+
+.stage-band {
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 30vh;
+  background:
+    linear-gradient(180deg, transparent 0%, rgba(9, 15, 30, 0.12) 20%, rgba(9, 15, 30, 0.62) 100%),
+    radial-gradient(circle at 14% 70%, rgba(255, 255, 255, 0.08), transparent 10%),
+    radial-gradient(circle at 28% 65%, rgba(255, 255, 255, 0.06), transparent 8%),
+    radial-gradient(circle at 48% 60%, rgba(255, 255, 255, 0.08), transparent 9%),
+    radial-gradient(circle at 66% 68%, rgba(255, 255, 255, 0.06), transparent 8%),
+    radial-gradient(circle at 82% 72%, rgba(255, 255, 255, 0.07), transparent 10%);
+  opacity: 0.7;
+}
+
+.stage-scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.02) 24%, rgba(255, 255, 255, 0.04) 100%);
+  opacity: 0.45;
+}

@@ -1,0 +1,8 @@
+.DS_Store
+.next
+.next-dev
+node_modules
+.npm-cache
+dist
+coverage
+*.log

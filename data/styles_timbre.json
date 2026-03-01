@@ -1,0 +1,441 @@
+[
+  {
+    "style_id": 1,
+    "year_range": {
+      "start": 1963,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Let The Good Times Roll",
+            "performer": "Roy Orbison"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Eyes Of Silver",
+            "performer": "The Doobie Brothers"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "I'm So Glad I'm Standing Here Today",
+            "performer": "The Crusaders With Joe Cocker"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Baby I'm Hooked",
+            "performer": "ConFunkShun"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "I Want You",
+            "performer": "Jody Watley"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Hook",
+            "performer": "Blues Traveler"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Do You",
+            "performer": "Funkmaster Flex Featuring DMX"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "5-1-5-0",
+            "performer": "Dierks Bentley"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Heartache On The Dance Floor",
+            "performer": "Jon Pardi"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 1 shows higher-than-average loudness (+0.79), valence (+0.14), energy (+0.11) and lower-than-average instrument count (-0.27), acousticness (-0.18), acoustic (-0.05).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 2,
+    "year_range": {
+      "start": 1978,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Warm Ride",
+            "performer": "Rare Earth"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Give Me The Reason",
+            "performer": "Luther Vandross"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Just Another Dream",
+            "performer": "Cathy Dennis"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "On My Own",
+            "performer": "Peach Union"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "I Keep Looking",
+            "performer": "Sara Evans"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Hey Good Lookin'",
+            "performer": "Jimmy Buffett With Clint Black, Kenny Chesney, Alan Jackson, Toby Keith & George Strait"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Disturbia",
+            "performer": "Rihanna"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Holy Grail",
+            "performer": "Jay Z Featuring Justin Timberlake"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 2 shows higher-than-average loudness (+0.84), energy (+0.10), valence (+0.09) and lower-than-average acousticness (-0.21), instrument count (-0.18), timbre brightness (-0.02).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 3,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Why'd You Wanna Make Me Cry",
+            "performer": "Connie Stevens"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Ob-La-Di, Ob-La-Da",
+            "performer": "Arthur Conley"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "I'll Be Holding On",
+            "performer": "Al Downing"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Too Young",
+            "performer": "Jack Wagner"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Hopelessly",
+            "performer": "Rick Astley"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Bright",
+            "performer": "Echosmith"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 3 shows higher-than-average instrument count (+0.62), acousticness (+0.19), acoustic (+0.05) and lower-than-average loudness (-1.76), energy (-0.13), valence (-0.10).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 4,
+    "year_range": {
+      "start": 1958,
+      "end": 1968
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Pretty Girls Everywhere",
+            "performer": "Eugene Church and The Fellows"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Antony And Cleopatra Theme",
+            "performer": "Ferrante & Teicher"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "My Man, A Sweet Man",
+            "performer": "Millie Jackson"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 4 shows higher-than-average instrument count (+0.95), valence (+0.26), acousticness (+0.18) and lower-than-average danceability (-0.01), speechiness (-0.00), instrumentalness (-0.00).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 5,
+    "year_range": {
+      "start": 1958,
+      "end": 1978
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Three Steps From The Altar",
+            "performer": "Shep And The Limelites"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Turn The World Around",
+            "performer": "Eddy Arnold"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Purple Haze",
+            "performer": "Dion"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Devil In The Bottle",
+            "performer": "T.G. Sheppard"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Lady",
+            "performer": "Little River Band"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 5 shows higher-than-average acousticness (+0.42), acoustic (+0.13), instrumentalness (+0.00) and lower-than-average loudness (-3.20), instrument count (-0.65), energy (-0.29).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 6,
+    "year_range": {
+      "start": 1988,
+      "end": 2008
+    },
+    "timeline": [
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Wind Of Change",
+            "performer": "Scorpions"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Let Me Let Go",
+            "performer": "Faith Hill"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "The Riddle",
+            "performer": "Five For Fighting"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "The Trouble With Girls",
+            "performer": "Scotty McCreery"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 6 shows higher-than-average loudness (+0.34), instrument count (+0.20), acousticness (+0.10) and lower-than-average valence (-0.30), energy (-0.11), timbre brightness (-0.07).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 7,
+    "year_range": {
+      "start": 1983,
+      "end": 2003
+    },
+    "timeline": [
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Missionary Man",
+            "performer": "Eurythmics"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Let's Get Rocked",
+            "performer": "Def Leppard"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "On The Way Down",
+            "performer": "Ryan Cabrera"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 7 shows higher-than-average loudness (+2.80), energy (+0.24), timbre brightness (+0.13) and lower-than-average instrument count (-1.05), acousticness (-0.27), acoustic (-0.24).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 8,
+    "year_range": {
+      "start": 2003,
+      "end": 2003
+    },
+    "timeline": [
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Let's Ride",
+            "performer": "The Game"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 8 shows higher-than-average loudness (+2.95), instrument count (+2.95), danceability (+0.28) and lower-than-average acousticness (-0.12), acoustic (-0.11), instrumentalness (-0.00).",
+    "manual_description": ""
+  }
+]

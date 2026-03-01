@@ -1,0 +1,435 @@
+[
+  {
+    "style_id": 1,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Cradle Of Love",
+            "performer": "Johnny Preston"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Hanky Panky",
+            "performer": "Tommy James And The Shondells"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Up On The Roof",
+            "performer": "Laura Nyro"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "I'll Get Over You",
+            "performer": "Crystal Gayle"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Thin Line Between Love And Hate",
+            "performer": "Pretenders"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Knocks Me Off My Feet",
+            "performer": "Donell Jones"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Hold On To Me",
+            "performer": "John Michael Montgomery"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Down",
+            "performer": "RKM & Ken-Y"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Up All Night",
+            "performer": "Blink-182"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Backroad Song",
+            "performer": "Granger Smith"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 1 shows higher-than-average n peaks (+1.26), step range (+1.19), mode cos (+0.68) and lower-than-average pitch mean (-1.17), IOI mean (-0.10).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 2,
+    "year_range": {
+      "start": 1958,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "The Purple People Eater Meets The Witch Doctor",
+            "performer": "Joe South"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Go-Go Girl",
+            "performer": "Lee Dorsey"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Promises, Promises",
+            "performer": "Dionne Warwick"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Reaching For The World",
+            "performer": "Harold Melvin And The Blue Notes"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Living Inside Myself",
+            "performer": "Gino Vannelli"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Looking For A New Love",
+            "performer": "Jody Watley"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Heat Of The Moment",
+            "performer": "After 7"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Candy Everybody Wants",
+            "performer": "10,000 Maniacs"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Don't Talk",
+            "performer": "Jon B"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Baby I Love U",
+            "performer": "Jennifer Lopez"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Give It 2 Me",
+            "performer": "Madonna"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Back Up",
+            "performer": "DeJ Loaf Featuring Big Sean"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 2 shows higher-than-average pitch mean (+0.94), n peaks (+0.60), mode sin (+0.27) and lower-than-average mode cos (-0.84), step range (-0.48), IOI mean (-0.05).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 3,
+    "year_range": {
+      "start": 1958,
+      "end": 1988
+    },
+    "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Jump Over",
+            "performer": "Freddy Cannon"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Stout-Hearted Men",
+            "performer": "Barbra Streisand"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Take A Look Around",
+            "performer": "Smith"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "I Get High On You",
+            "performer": "Sly Stone"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Will You Still Love Me Tomorrow",
+            "performer": "Dave Mason"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "The End Of The Innocence",
+            "performer": "Don Henley"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 3 shows higher-than-average step range (+1.02), mode cos (+0.93), n peaks (+0.26) and lower-than-average pitch mean (-1.36), repeat ratio (-0.04), triad percentage (-0.01).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 4,
+    "year_range": {
+      "start": 1963,
+      "end": 2013
+    },
+    "timeline": [
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Stay Away From My Baby",
+            "performer": "Ted Taylor"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "(You've Got) Personality And Chantilly Lace",
+            "performer": "Mitch Ryder"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Living For The City",
+            "performer": "Stevie Wonder"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Shake Your Groove Thing",
+            "performer": "Peaches & Herb"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "All She Wants to Do Is Dance",
+            "performer": "Don Henley"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Breakdown",
+            "performer": "Seduction"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Spin Spin Sugar",
+            "performer": "Sneaker Pimps"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "My Way",
+            "performer": "Limp Bizkit"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "We Run This",
+            "performer": "Missy Elliott"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Buzzin'",
+            "performer": "Shwayze Featuring Cisco Adler"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "L.A.LOVE (la la)",
+            "performer": "Fergie"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 4 shows higher-than-average pitch mean (+0.44), IOI mean (+0.18) and lower-than-average n peaks (-2.01), step range (-1.35), mode sin (-1.14).",
+    "manual_description": ""
+  },
+  {
+    "style_id": 5,
+    "year_range": {
+      "start": 1963,
+      "end": 1973
+    },
+    "timeline": [
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "(There's) Always Something There To Remind Me",
+            "performer": "Sandie Shaw"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Turn On A Dream",
+            "performer": "The Box Tops"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Let There Be Music",
+            "performer": "Orleans"
+          }
+        ]
+      }
+    ],
+    "auto_description": "Style 5 shows higher-than-average pitch mean (+1.21), step range (+0.86), mode sin (+0.81) and lower-than-average mode cos (-0.16), IOI mean (-0.12), repeat ratio (-0.08).",
+    "manual_description": ""
+  }
+]
