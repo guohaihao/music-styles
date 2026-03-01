@@ -355,5 +355,19 @@
     "trackViewUrl": "https://music.apple.com/us/album/we-run-this/73240848?i=73240634&uo=4",
     "trackName": "We Run This",
     "artistName": "Missy Elliott"
+  },
+  "my way|||limp bizkit": {
+    "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video122/v4/a4/0c/48/a40c4829-9da6-db11-adfd-ee65ee584856/mzvf_12144274484029945059.1920w.h264lc.U.p.m4v",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/c8/e4/0e/c8e40eb3-59e8-c4cc-e1ad-a0527d5740cf/dj.lduoddrk.jpg/100x100bb.jpg",
+    "trackViewUrl": "https://music.apple.com/us/music-video/my-way/1445844210?uo=4",
+    "trackName": "My Way",
+    "artistName": "Limp Bizkit"
+  },
+  "buzzin|||shwayze featuring cisco adler": {
+    "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/d8/bc/6bd8bcbc-98c5-b658-4c59-de3f45cd5b76/mzaf_12473217794084330911.plus.aac.p.m4a",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/93/ab/2b93ab6d-26fe-55f2-b0f9-3a091213c5ca/19UMGIM53533.rgb.jpg/100x100bb.jpg",
+    "trackViewUrl": "https://music.apple.com/us/album/buzzin/1469083685?i=1469083943&uo=4",
+    "trackName": "Buzzin'",
+    "artistName": "Shwayze & Cisco Adler"
   }
 }
