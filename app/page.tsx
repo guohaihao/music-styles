@@ -72,15 +72,24 @@ export default function HomePage() {
       <section className="glass-panel overflow-hidden rounded-[34px] border border-line shadow-panel">
         <div className="grid gap-8 px-6 py-8 sm:px-8 sm:py-10 lg:grid-cols-[1.5fr_1fr] lg:px-10">
           <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-muted">JMP Music Style Showcase</p>
+            <p className="text-xs uppercase tracking-[0.3em] text-muted">Guo, Seetharaman &amp; Xie (2026)</p>
             <h1 className="mt-4 max-w-4xl font-display text-5xl tracking-tight text-ink sm:text-6xl">
-              Explore how Billboard song styles evolved across four musical dimensions.
+              Music Evolution in Western Popular Music
             </h1>
-            <p className="mt-6 max-w-2xl text-base leading-7 text-muted sm:text-lg">
-              This project analyzes 24,618 Billboard songs released between 1958 and 2017, then organizes
-              representative style clusters into melody, harmony, rhythm, and timbre so each dimension can be
-              explored on its own timeline.
+            <p className="mt-4 max-w-3xl text-lg leading-7 text-ink/85 sm:text-xl">
+              Billboard song styles across melody, harmony, rhythm, and timbre (1958–2017).
             </p>
+            <div className="mt-6 max-w-3xl space-y-5 text-base leading-7 text-muted sm:text-lg">
+              <p>
+                This site is based on <em>Echoes from the Past: Generative AI Music Design Through Controlled Similarity to Historical Styles</em> by Haihao Guo, Seethu Seetharaman, and Yingkang Xie (2026).
+              </p>
+              <p>
+                We conceptualize popular music as composed of four core dimensions: melody, harmony, and rhythm, which reflect songwriting structure, and timbre, which captures instrumentation and production.
+              </p>
+              <p>
+                Using 24,618 Billboard songs released between 1958 and 2017, we trace how styles in each dimension evolve over time and identify stable historical templates that continue to shape modern music.
+              </p>
+            </div>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
                 href="/melody"
@@ -116,7 +125,9 @@ export default function HomePage() {
         <div className="flex items-end justify-between gap-4">
           <div>
             <p className="text-xs uppercase tracking-[0.3em] text-muted">Dimensions</p>
-            <h2 className="mt-3 font-display text-4xl tracking-tight text-ink">Four ways to read stylistic change</h2>
+            <h2 className="mt-3 font-display text-4xl font-semibold tracking-tight text-white">
+              Four Dimensions of Music Style Evolution
+            </h2>
           </div>
         </div>
 

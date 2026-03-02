@@ -115,7 +115,7 @@
         ]
       }
     ],
-    "auto_description": "Style 1 shows lower-than-average tempo BPM (-1.91), swing (-0.48).",
+    "auto_description": "Style 1 shows higher-than-average rhythm regular (+0.44) and lower-than-average tempo BPM (-6.20), Unnamed: 0 (-0.83), swing (-0.40).",
     "manual_description": ""
   },
   {
@@ -234,7 +234,7 @@
         ]
       }
     ],
-    "auto_description": "Style 2 shows higher-than-average swing (+0.52) and lower-than-average tempo BPM (-4.66).",
+    "auto_description": "Style 2 shows higher-than-average swing (+0.60), rhythm regular (+0.44) and lower-than-average tempo BPM (-8.95), Unnamed: 0 (-0.33).",
     "manual_description": ""
   },
   {
@@ -286,6 +286,15 @@
           {
             "song_title": "On The Way To The Sky",
             "performer": "Neil Diamond"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Could've Been",
+            "performer": "Tiffany"
           }
         ]
       },
@@ -344,16 +353,52 @@
         ]
       }
     ],
-    "auto_description": "Style 3 shows higher-than-average tempo BPM (+2.97), swing (+0.52).",
+    "auto_description": "Style 3 shows higher-than-average swing (+0.60) and lower-than-average tempo BPM (-0.91), rhythm regular (-0.56), Unnamed: 0 (-0.14).",
     "manual_description": ""
   },
   {
     "style_id": 4,
     "year_range": {
-      "start": 1978,
-      "end": 1988
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Cannonball",
+            "performer": "Duane Eddy His Twangy Guitar And The Rebels"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "One Fine Day",
+            "performer": "The Chiffons"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Looking For A Fox",
+            "performer": "Clarence Carter"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "My Mistake (Was To Love You)",
+            "performer": "Diana Ross & Marvin Gaye"
+          }
+        ]
+      },
       {
         "year": 1978,
         "songs": [
@@ -380,18 +425,81 @@
             "performer": "Brenda K. Starr"
           }
         ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Step It Up",
+            "performer": "Stereo MC's"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Only If...",
+            "performer": "Enya"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "In My Life",
+            "performer": "Juvenile Featuring Mannie Fresh"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Fly Like Me",
+            "performer": "Chingy Featuring Amerie"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Chloe (You're The One I Want)",
+            "performer": "Emblem3"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 4 shows higher-than-average tempo BPM (+4.80) and lower-than-average swing (-0.48).",
+    "auto_description": "Style 4 shows higher-than-average tempo BPM (+16.39), rhythm regular (+0.44) and lower-than-average Unnamed: 0 (-3.83), swing (-0.40).",
     "manual_description": ""
   },
   {
     "style_id": 5,
     "year_range": {
-      "start": 1968,
+      "start": 1958,
       "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Blue Boy",
+            "performer": "Jim Reeves"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Since I Found A New Love",
+            "performer": "Little Johnny Taylor"
+          }
+        ]
+      },
       {
         "year": 1968,
         "songs": [
@@ -483,7 +591,7 @@
         ]
       }
     ],
-    "auto_description": "Style 5 shows higher-than-average tempo BPM (+3.19) and lower-than-average swing (-0.48).",
+    "auto_description": "Style 5 shows higher-than-average Unnamed: 0 (+2.70) and lower-than-average rhythm regular (-0.56), swing (-0.40), tempo BPM (-0.32).",
     "manual_description": ""
   }
 ]

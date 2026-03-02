@@ -2,16 +2,34 @@
   {
     "style_id": 1,
     "year_range": {
-      "start": 1963,
+      "start": 1958,
       "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Aladdin",
+            "performer": "Bobby Curtola"
+          }
+        ]
+      },
       {
         "year": 1963,
         "songs": [
           {
             "song_title": "Let The Good Times Roll",
             "performer": "Roy Orbison"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "What Is A Man",
+            "performer": "Four Tops"
           }
         ]
       },
@@ -70,6 +88,15 @@
         ]
       },
       {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Livin' Our Love Song",
+            "performer": "Jason Michael Carroll"
+          }
+        ]
+      },
+      {
         "year": 2008,
         "songs": [
           {
@@ -88,16 +115,52 @@
         ]
       }
     ],
-    "auto_description": "Style 1 shows higher-than-average loudness (+0.79), valence (+0.14), energy (+0.11) and lower-than-average instrument count (-0.27), acousticness (-0.18), acoustic (-0.05).",
+    "auto_description": "Style 1 shows higher-than-average Unnamed: 0 (+1.67), loudness (+1.03), valence (+0.15) and lower-than-average acousticness (-0.19), acoustic (-0.05), instrument count (-0.03).",
     "manual_description": ""
   },
   {
     "style_id": 2,
     "year_range": {
-      "start": 1978,
+      "start": 1958,
       "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Calcutta",
+            "performer": "The Four Preps"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Shaggy Dog",
+            "performer": "Mickey Lee Lane"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Green River",
+            "performer": "Creedence Clearwater Revival"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Eyes Of Silver",
+            "performer": "The Doobie Brothers"
+          }
+        ]
+      },
       {
         "year": 1978,
         "songs": [
@@ -171,7 +234,7 @@
         ]
       }
     ],
-    "auto_description": "Style 2 shows higher-than-average loudness (+0.84), energy (+0.10), valence (+0.09) and lower-than-average acousticness (-0.21), instrument count (-0.18), timbre brightness (-0.02).",
+    "auto_description": "Style 2 shows higher-than-average Unnamed: 0 (+6.13), loudness (+0.15), valence (+0.14) and lower-than-average instrument count (-0.45), acousticness (-0.26), liveness (-0.02).",
     "manual_description": ""
   },
   {
@@ -187,6 +250,15 @@
           {
             "song_title": "Why'd You Wanna Make Me Cry",
             "performer": "Connie Stevens"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Dumb Head",
+            "performer": "Ginny Arnell"
           }
         ]
       },
@@ -209,11 +281,29 @@
         ]
       },
       {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Dreamer",
+            "performer": "The Association"
+          }
+        ]
+      },
+      {
         "year": 1983,
         "songs": [
           {
             "song_title": "Too Young",
             "performer": "Jack Wagner"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "You Got It",
+            "performer": "Roy Orbison"
           }
         ]
       },
@@ -227,6 +317,33 @@
         ]
       },
       {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Wide Open Spaces",
+            "performer": "Dixie Chicks"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Cowboys Are Frequently Secretly (Fond Of Each Other)",
+            "performer": "Willie Nelson"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "It's A Man's, Man's Man's World",
+            "performer": "Glee Cast"
+          }
+        ]
+      },
+      {
         "year": 2013,
         "songs": [
           {
@@ -236,14 +353,14 @@
         ]
       }
     ],
-    "auto_description": "Style 3 shows higher-than-average instrument count (+0.62), acousticness (+0.19), acoustic (+0.05) and lower-than-average loudness (-1.76), energy (-0.13), valence (-0.10).",
+    "auto_description": "Style 3 shows higher-than-average acousticness (+0.20), acoustic (+0.07), instrument count (+0.05) and lower-than-average Unnamed: 0 (-3.33), loudness (-1.10), energy (-0.13).",
     "manual_description": ""
   },
   {
     "style_id": 4,
     "year_range": {
       "start": 1958,
-      "end": 1968
+      "end": 2013
     },
     "timeline": [
       {
@@ -272,16 +389,97 @@
             "performer": "Millie Jackson"
           }
         ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Love Me",
+            "performer": "Yvonne Elliman"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "(Bringing Out) The Girl In Me",
+            "performer": "Maxine Nightingale"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "You And Me Tonight",
+            "performer": "Deja"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Galileo",
+            "performer": "Indigo Girls"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Shut Up And Kiss Me",
+            "performer": "Mary Chapin Carpenter"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Stranger In My Mirror",
+            "performer": "Randy Travis"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Tengo Un Amor",
+            "performer": "Toby Love Featuring Rakim & Ken-Y"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "River Of Love",
+            "performer": "George Strait"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Heroe Favorito",
+            "performer": "Romeo Santos"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 4 shows higher-than-average instrument count (+0.95), valence (+0.26), acousticness (+0.18) and lower-than-average danceability (-0.01), speechiness (-0.00), instrumentalness (-0.00).",
+    "auto_description": "Style 4 shows higher-than-average loudness (+1.07), instrument count (+0.64), acousticness (+0.26) and lower-than-average Unnamed: 0 (-14.67), timbre brightness (-0.03), speechiness (-0.01).",
     "manual_description": ""
   },
   {
     "style_id": 5,
     "year_range": {
       "start": 1958,
-      "end": 1978
+      "end": 2013
     },
     "timeline": [
       {
@@ -328,24 +526,150 @@
             "performer": "Little River Band"
           }
         ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Think Of Laura",
+            "performer": "Christopher Cross"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Patience",
+            "performer": "Guns N' Roses"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "When You Say Nothing At All",
+            "performer": "Alison Krauss + Union Station"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Landslide",
+            "performer": "Fleetwood Mac"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Somewhere Over The Rainbow",
+            "performer": "Katharine McPhee"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Safe & Sound",
+            "performer": "Taylor Swift Featuring The Civil Wars"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Tin Man",
+            "performer": "Miranda Lambert"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 5 shows higher-than-average acousticness (+0.42), acoustic (+0.13), instrumentalness (+0.00) and lower-than-average loudness (-3.20), instrument count (-0.65), energy (-0.29).",
+    "auto_description": "Style 5 shows higher-than-average acousticness (+0.43), acoustic (+0.16), instrumentalness (+0.00) and lower-than-average Unnamed: 0 (-12.20), loudness (-4.42), instrument count (-1.03).",
     "manual_description": ""
   },
   {
     "style_id": 6,
     "year_range": {
-      "start": 1988,
-      "end": 2008
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Sharing You",
+            "performer": "Bobby Vee"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Daylight Savin' Time",
+            "performer": "Keith"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Wild World",
+            "performer": "Cat Stevens"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Air Disaster",
+            "performer": "Albert Hammond"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Still They Ride",
+            "performer": "Journey"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Miracles",
+            "performer": "Stacy Lattisaw"
+          }
+        ]
+      },
       {
         "year": 1988,
         "songs": [
           {
             "song_title": "Wind Of Change",
             "performer": "Scorpions"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Think Twice",
+            "performer": "Celine Dion"
           }
         ]
       },
@@ -375,18 +699,72 @@
             "performer": "Scotty McCreery"
           }
         ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "If Only",
+            "performer": "Dove Cameron"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 6 shows higher-than-average loudness (+0.34), instrument count (+0.20), acousticness (+0.10) and lower-than-average valence (-0.30), energy (-0.11), timbre brightness (-0.07).",
+    "auto_description": "Style 6 shows higher-than-average Unnamed: 0 (+9.75), acousticness (+0.03), acoustic (+0.00) and lower-than-average instrument count (-0.61), loudness (-0.61), valence (-0.28).",
     "manual_description": ""
   },
   {
     "style_id": 7,
     "year_range": {
-      "start": 1983,
-      "end": 2003
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Forty Days",
+            "performer": "Ronnie Hawkins"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Ticket To Ride",
+            "performer": "The Beatles"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Lookin' Back",
+            "performer": "Bob Seger"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Jukin",
+            "performer": "Atlanta Rhythm Section"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Sausalito Summernight",
+            "performer": "Diesel"
+          }
+        ]
+      },
       {
         "year": 1983,
         "songs": [
@@ -406,6 +784,24 @@
         ]
       },
       {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Sleeping In My Car",
+            "performer": "Roxette"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Running Away",
+            "performer": "Hoobastank"
+          }
+        ]
+      },
+      {
         "year": 2003,
         "songs": [
           {
@@ -413,18 +809,117 @@
             "performer": "Ryan Cabrera"
           }
         ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "The One That Got Away",
+            "performer": "Jake Owen"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Shut Up And Dance",
+            "performer": "WALK THE MOON"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 7 shows higher-than-average loudness (+2.80), energy (+0.24), timbre brightness (+0.13) and lower-than-average instrument count (-1.05), acousticness (-0.27), acoustic (-0.24).",
+    "auto_description": "Style 7 shows higher-than-average Unnamed: 0 (+3.33), loudness (+2.61), energy (+0.23) and lower-than-average instrument count (-1.03), acousticness (-0.29), acoustic (-0.23).",
     "manual_description": ""
   },
   {
     "style_id": 8,
     "year_range": {
-      "start": 2003,
-      "end": 2003
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "I Love The Way You Love",
+            "performer": "Marv Johnson"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Different Strokes",
+            "performer": "Syl Johnson"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Double Barrel",
+            "performer": "Dave & Ansil Collins"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Too Hot Ta Trot",
+            "performer": "Commodores"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Ain't Even Done With The Night",
+            "performer": "John Cougar"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Get That Love",
+            "performer": "Thompson Twins"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "360 Degrees (What Goes Around)",
+            "performer": "Grand Puba"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "5 O'Clock",
+            "performer": "Nonchalant"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Luv Me, Luv Me",
+            "performer": "Shaggy Featuring Janet"
+          }
+        ]
+      },
       {
         "year": 2003,
         "songs": [
@@ -433,9 +928,27 @@
             "performer": "The Game"
           }
         ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Circus",
+            "performer": "Britney Spears"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Feel It Still",
+            "performer": "Portugal. The Man"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 8 shows higher-than-average loudness (+2.95), instrument count (+2.95), danceability (+0.28) and lower-than-average acousticness (-0.12), acoustic (-0.11), instrumentalness (-0.00).",
+    "auto_description": "Style 8 shows higher-than-average Unnamed: 0 (+12.00), instrument count (+2.47), loudness (+1.28) and lower-than-average acousticness (-0.19), acoustic (-0.09), liveness (-0.03).",
     "manual_description": ""
   }
 ]

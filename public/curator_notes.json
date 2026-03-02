@@ -1,0 +1,154 @@
+{
+  "melody": {
+    "1": {
+      "badge": "Sing-along Core",
+      "signature": "Classic singable melody",
+      "z_summary": "Hook-forward, tonal, and easy to sing—clear melodic turns with comfortable range.",
+      "manual_description": "A classic, highly tonal melody style built on simple motifs and smooth stepwise motion. It feels instantly familiar and singable, and remains a stable backbone across decades."
+    },
+    "2": {
+      "badge": "Spacious Stepwise",
+      "signature": "Spacious, grounded melody",
+      "z_summary": "More spacious phrasing and a grounded register—melodies feel steady rather than flashy.",
+      "manual_description": "A stable melodic template with clear tonal center and slightly more open note pacing. It comes across as calm and grounded, showing up consistently across eras."
+    },
+    "3": {
+      "badge": "Bright Chord-Tone",
+      "signature": "Bright, chord-tone melody",
+      "z_summary": "Bright and chord-tone driven—clean, tonal lines that sit naturally in mainstream songwriting.",
+      "manual_description": "A clean, chord-tone melodic style with strong tonal clarity. It reads as bright and straightforward, supporting many genres without calling attention to itself."
+    },
+    "4": {
+      "badge": "Modal Character",
+      "signature": "Edgier modal contour",
+      "z_summary": "More modal color and fewer obvious hooks—melody feels more character-driven than sing-along.",
+      "manual_description": "A more characterful melodic style with a less ‘standard pop’ contour. It can feel moodier or more idiosyncratic, appearing in smaller clusters and specific aesthetics."
+    },
+    "5": {
+      "badge": "Lively Phrasework",
+      "signature": "Lively, bright phrasing",
+      "z_summary": "Livelier phrasing with brighter modal color—catchy without being a ‘default’ template.",
+      "manual_description": "A melodic style that feels a bit more animated and bright in phrasing. It shows up reliably but usually as a flavor style rather than the dominant backbone."
+    }
+  },
+  "harmony": {
+    "1": {
+      "badge": "Functional Major",
+      "signature": "Major-key functional core",
+      "z_summary": "Straight-ahead major-key harmony—functional and radio-friendly rather than experimental.",
+      "manual_description": "A classic functional harmony style that anchors songs in a clear major-key center. It’s widely adopted and works as a stable harmonic foundation across decades."
+    },
+    "2": {
+      "badge": "Warm Tonal Center",
+      "signature": "Warm tonal center",
+      "z_summary": "Stable tonal center with moderate harmonic movement—feels warm and conventional.",
+      "manual_description": "A mainstream harmonic style with a clear tonal home and moderate movement. It sounds familiar and ‘resolved,’ supporting vocals and hooks without harmonic surprise."
+    },
+    "3": {
+      "badge": "Clean Tonal Logic",
+      "signature": "Clean tonic–dominant feel",
+      "z_summary": "Very clean tonal logic—predictable in a good way, optimized for accessibility.",
+      "manual_description": "A straightforward harmonic template that emphasizes clarity and predictability. It’s especially compatible with pop structures where melody and lyric carry the story."
+    },
+    "4": {
+      "badge": "Minor-Leaning Color",
+      "signature": "Minor-leaning color",
+      "z_summary": "Darker tonal color with less ‘bright major’ pull—often reads more dramatic or moody.",
+      "manual_description": "A harmony style that leans darker in tonal color and feels more dramatic than default pop major. It appears as a distinct alternative rather than the dominant harmonic language."
+    },
+    "5": {
+      "badge": "Blues-Tinged Harmony",
+      "signature": "Blues-tinged progression",
+      "z_summary": "More blues-leaning progression logic—groove-first harmony with recognizable cadence patterns.",
+      "manual_description": "A blues-tinged harmonic style with familiar progression shapes. It signals genre identity (blues/R&B/rock lineage) and often pairs with groove-driven production."
+    },
+    "6": {
+      "badge": "Alternative Tonal Path",
+      "signature": "Alternative tonal route",
+      "z_summary": "Less standard harmonic route—used when songs want a distinct color without heavy complexity.",
+      "manual_description": "A less-common harmonic style that provides a noticeable tonal twist while staying digestible. It tends to appear in smaller clusters or specific songwriting aesthetics."
+    }
+  },
+  "rhythm": {
+    "1": {
+      "badge": "Straight 4/4 Pulse",
+      "signature": "Straight 4/4 groove",
+      "z_summary": "Steady, straight groove—classic pop pulse that supports broad diffusion.",
+      "manual_description": "A stable, mainstream rhythm style centered on a straight feel and familiar meter. It’s the ‘default engine’ for many Billboard songs and stays common across eras."
+    },
+    "2": {
+      "badge": "Swing-Inflected Groove",
+      "signature": "Swing-leaning steady feel",
+      "z_summary": "Slight swing/triplet feel with steady pacing—smooth, easy momentum.",
+      "manual_description": "A rhythm style that maintains a steady pulse but carries more swing-like feel. It reads smooth and approachable and appears consistently across years."
+    },
+    "3": {
+      "badge": "Waltz-Like Flow",
+      "signature": "Waltz-like motion",
+      "z_summary": "More 3/4 / waltz-like movement—flowing and lyrical rather than driving.",
+      "manual_description": "A rhythm style that often feels waltz-like and flowing. It creates a lyrical, swaying motion that’s distinct from the dominant 4/4 pop engine."
+    },
+    "4": {
+      "badge": "Driving Straight Feel",
+      "signature": "High-energy straight drive",
+      "z_summary": "More driving, higher-energy feel—used for punchy tracks rather than the average ballad groove.",
+      "manual_description": "A more energetic rhythm profile that feels punchier and more forward-moving. It appears as a stylistic choice when songs want drive and impact."
+    },
+    "5": {
+      "badge": "Irregular Pulse",
+      "signature": "Off-beat / less regular pulse",
+      "z_summary": "Less regular pulse and more rhythmic character—feels less ‘default pop’ and more stylized.",
+      "manual_description": "A rhythm style with more character and less straight regularity. It tends to appear in smaller clusters and is used when groove identity matters."
+    }
+  },
+  "timbre": {
+    "1": {
+      "badge": "High-Energy Loud Mix",
+      "signature": "Modern loud & energetic",
+      "z_summary": "More energetic and louder/denser—modern mix that feels high-impact.",
+      "manual_description": "A production-forward timbre style with higher energy and a more compressed, modern loudness profile. It feels immediate and contemporary rather than delicate."
+    },
+    "2": {
+      "badge": "Balanced Pop Texture",
+      "signature": "Balanced pop production",
+      "z_summary": "Balanced, versatile production—works across genres and decades without sounding extreme.",
+      "manual_description": "A broadly usable timbre template: neither too acoustic nor too electronic, neither too sparse nor too dense. It’s a stable production backbone that stays widely adopted."
+    },
+    "3": {
+      "badge": "Dense Instrumentation",
+      "signature": "Denser instrumentation",
+      "z_summary": "Denser instrumentation and fuller texture—more ‘filled-in’ arrangement feel.",
+      "manual_description": "A timbre style characterized by thicker arrangement density and fuller texture. It supports an ‘album-quality’ sound and appears frequently across years."
+    },
+    "4": {
+      "badge": "Bright Dance Mix",
+      "signature": "Bright, dance-forward mix",
+      "z_summary": "Brighter, more dance-forward production—clean top-end and energetic feel.",
+      "manual_description": "A bright, dance-leaning production style that emphasizes clarity and energy. It signals a more club/pop-oriented aesthetic rather than acoustic intimacy."
+    },
+    "5": {
+      "badge": "Acoustic-Leaning Texture",
+      "signature": "Acoustic, softer texture",
+      "z_summary": "More acoustic texture and softer energy—intimate rather than explosive.",
+      "manual_description": "A more acoustic and softer timbre profile with less ‘hyper-compressed’ intensity. It feels intimate and organic, showing up as a distinct alternative to mainstream loudness."
+    },
+    "6": {
+      "badge": "Vocal-Forward Mix",
+      "signature": "Vocal-forward clarity",
+      "z_summary": "More vocal-forward and clear—production steps back to spotlight the lead line.",
+      "manual_description": "A timbre style where arrangement and mix leave more space for the vocal to lead. It feels clean and direct and is used when lyrical delivery is central."
+    },
+    "7": {
+      "badge": "Hyper-Bright Pop",
+      "signature": "Bright, high-energy pop",
+      "z_summary": "Very bright and high-energy—designed for immediate impact and movement.",
+      "manual_description": "A high-energy, bright timbre style tuned for momentum and impact. It reads modern and punchy, often associated with more danceable, upbeat releases."
+    },
+    "8": {
+      "badge": "Distinctive Sonic Identity",
+      "signature": "Distinctive, standout texture",
+      "z_summary": "More distinctive texture—stands out sonically rather than blending into the average mix.",
+      "manual_description": "A less-common timbre profile that signals strong sonic identity. It’s used when the production itself is meant to be memorable and differentiating."
+    }
+  }
+}

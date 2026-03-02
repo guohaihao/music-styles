@@ -115,7 +115,7 @@
         ]
       }
     ],
-    "auto_description": "Style 1 shows higher-than-average key sin (+0.79), key is major (+0.22), key cos (+0.12) and lower-than-average Key degree (-1.95), average fifths distance (-0.06), extended any ratio (-0.01).",
+    "auto_description": "Style 1 shows higher-than-average key sin (+0.67), key is major (+0.50), Progression blues (+0.14) and lower-than-average Key degree (-1.35), Unnamed: 0 (-0.08), key cos (-0.04).",
     "manual_description": ""
   },
   {
@@ -234,14 +234,14 @@
         ]
       }
     ],
-    "auto_description": "Style 2 shows higher-than-average Key degree (+3.05), key is major (+0.22) and lower-than-average key sin (-0.80), key cos (-0.36), average fifths distance (-0.02).",
+    "auto_description": "Style 2 shows higher-than-average Key degree (+3.65), key is major (+0.50), Progression blues (+0.14) and lower-than-average key sin (-0.93), key cos (-0.52), Unnamed: 0 (-0.08).",
     "manual_description": ""
   },
   {
     "style_id": 3,
     "year_range": {
       "start": 1958,
-      "end": 1978
+      "end": 2013
     },
     "timeline": [
       {
@@ -288,18 +288,126 @@
             "performer": "Alessi"
           }
         ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Voice Of America's Sons",
+            "performer": "John Cafferty & The Beaver Brown Band"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "99 Worlds",
+            "performer": "Peter Wolf"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Like A Woman",
+            "performer": "The Tony Rich Project"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "My Love Is Your Love",
+            "performer": "Whitney Houston"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "So Yesterday",
+            "performer": "Hilary Duff"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Whiskey",
+            "performer": "Jana Kramer"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Somewhere On A Beach",
+            "performer": "Dierks Bentley"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 3 shows higher-than-average key cos (+1.04), key is major (+0.22), key sin (+0.18) and lower-than-average Key degree (-4.55), average fifths distance (-0.08), non-basic edge ratio (-0.01).",
+    "auto_description": "Style 3 shows higher-than-average key cos (+0.92), key is major (+0.50), Progression blues (+0.14) and lower-than-average Unnamed: 0 (-11.00), Key degree (-4.18), key sin (-0.05).",
     "manual_description": ""
   },
   {
     "style_id": 4,
     "year_range": {
-      "start": 1983,
-      "end": 1998
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Adam And Eve",
+            "performer": "Paul Anka"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Eight Men, Four Women",
+            "performer": "O.V. Wright"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Viva Tirado - Part I",
+            "performer": "El Chicano"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Billion Dollar Babies",
+            "performer": "Alice Cooper"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "The Elvis Medley",
+            "performer": "Elvis Presley"
+          }
+        ]
+      },
       {
         "year": 1983,
         "songs": [
@@ -335,18 +443,126 @@
             "performer": "Ja Rule Featuring Case"
           }
         ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Big Chips",
+            "performer": "R. Kelly & Jay-Z"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Dead And Gone",
+            "performer": "T.I. Featuring Justin Timberlake"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "This Summer's Gonna Hurt...",
+            "performer": "Maroon 5"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 4 shows higher-than-average Key degree (+3.30), extended any ratio (+0.04) and lower-than-average key sin (-0.86), key is major (-0.78), key cos (-0.25).",
+    "auto_description": "Style 4 shows higher-than-average Key degree (+4.40), Unnamed: 0 (+2.75) and lower-than-average key sin (-1.08), key is major (-0.50), Progression blues (-0.36).",
     "manual_description": ""
   },
   {
     "style_id": 5,
     "year_range": {
-      "start": 2003,
+      "start": 1958,
       "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Deep In The Heart Of Texas",
+            "performer": "Duane Eddy"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "I'm A Man",
+            "performer": "The Spencer Davis Group"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Gotta See Jane",
+            "performer": "R. Dean Taylor"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "Reality",
+            "performer": "James Brown"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "I Loved 'em Every One",
+            "performer": "T.G. Sheppard"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Lay Your Hands On Me",
+            "performer": "Thompson Twins"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Nothing Else Matters",
+            "performer": "Metallica"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Thuggish Ruggish Bone",
+            "performer": "Bone Thugs-N-Harmony"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Black Ice (Sky High)",
+            "performer": "Goodie Mob Featuring Outkast"
+          }
+        ]
+      },
       {
         "year": 2003,
         "songs": [
@@ -375,16 +591,79 @@
         ]
       }
     ],
-    "auto_description": "Style 5 shows higher-than-average key sin (+0.61), average fifths distance (+0.58), non-basic edge ratio (+0.13) and lower-than-average key is major (-0.78), key cos (-0.65), Key degree (-0.28).",
+    "auto_description": "Style 5 shows higher-than-average Unnamed: 0 (+14.00), average fifths distance (+0.67), key sin (+0.67) and lower-than-average Progression blues (-0.86), key cos (-0.62), key is major (-0.50).",
     "manual_description": ""
   },
   {
     "style_id": 6,
     "year_range": {
-      "start": 1993,
-      "end": 1993
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Lisa",
+            "performer": "Ferrante & Teicher"
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "songs": [
+          {
+            "song_title": "Music To Watch Girls By",
+            "performer": "Bob Crewe Generation"
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "songs": [
+          {
+            "song_title": "Drummer Man",
+            "performer": "Nancy Sinatra"
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "songs": [
+          {
+            "song_title": "We're Gonna Have A Good Time",
+            "performer": "Rare Earth"
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Got To Have Loving",
+            "performer": "Don Ray"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "He Wants My Body",
+            "performer": "Starpoint"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Drag My Bad Name Down",
+            "performer": "The 4 Of Us"
+          }
+        ]
+      },
       {
         "year": 1993,
         "songs": [
@@ -393,9 +672,45 @@
             "performer": "Ol' Dirty Bastard"
           }
         ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "Here We Go Again",
+            "performer": "Aretha Franklin"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Straight Out Of Line",
+            "performer": "Godsmack"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Bonfire",
+            "performer": "Craig Morgan"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Ghostface Killers",
+            "performer": "21 Savage, Offset & Metro Boomin Featuring Travis Scott"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 6 shows higher-than-average key sin (+0.85), key cos (+0.60), extended any ratio (+0.08) and lower-than-average Key degree (-2.95), key is major (-0.78), average fifths distance (-0.34).",
+    "auto_description": "Style 6 shows higher-than-average Unnamed: 0 (+4.00), key sin (+0.73), key cos (+0.44) and lower-than-average Key degree (-2.35), key is major (-0.50), average fifths distance (-0.47).",
     "manual_description": ""
   }
 ]

@@ -54,6 +54,5 @@ nodemon.on("quit", () => {
 });
 
 nodemon.on("crash", () => {
-  log("Watcher crashed");
-  process.exit(1);
+  log("Rebuild failed; watcher is still running and will retry on the next CSV change");
 });

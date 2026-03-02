@@ -1,10 +1,17 @@
 import { notFound } from "next/navigation";
 
 import { StyleShowcase } from "@/components/style-showcase";
-import { formatDimensionLabel, getDimensionTheme, getDimensions, getStylesForDimension } from "@/lib/styles";
+import { formatDimensionLabel, getCuratorNotes, getDimensionTheme, getDimensions, getStylesForDimension } from "@/lib/styles";
 import type { Dimension } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
+
+const DATA_SOURCE_COPY: Record<Dimension, string> = {
+  melody: "1958–2017 Billboard songs · Vocal stems.\nGuo, Seetharaman & Xie (2026).",
+  rhythm: "1958–2017 Billboard songs · Drum stems.\nGuo, Seetharaman & Xie (2026).",
+  harmony: "1958–2017 Billboard songs · Accompaniment stems.\nGuo, Seetharaman & Xie (2026).",
+  timbre: "1958–2017 Billboard songs · Full-track audio.\nGuo, Seetharaman & Xie (2026)."
+};
 
 type DimensionPageProps = {
   params: Promise<{
@@ -24,9 +31,14 @@ export default async function DimensionPage({ params }: DimensionPageProps) {
   }
 
   const typedDimension = dimension as Dimension;
-  const styles = await getStylesForDimension(typedDimension);
+  const [styles, curatorNotes] = await Promise.all([
+    getStylesForDimension(typedDimension),
+    getCuratorNotes()
+  ]);
   const label = formatDimensionLabel(typedDimension);
   const theme = getDimensionTheme(typedDimension);
+  const dimensionCuratorNotes = curatorNotes[typedDimension] ?? {};
+  const dataSourceCopy = DATA_SOURCE_COPY[typedDimension];
 
   return (
     <main className="space-y-8">
@@ -59,15 +71,17 @@ export default async function DimensionPage({ params }: DimensionPageProps) {
             </div>
             <div className="rounded-[28px] border border-line bg-white/72 px-5 py-4">
               <p className="text-xs uppercase tracking-[0.24em] text-muted">Data Source</p>
-              <p className="mt-2 text-sm leading-6 text-muted">
-                Generated from medoid CSV clusters and refreshed automatically during development.
-              </p>
+              <p className="mt-2 whitespace-pre-line text-sm leading-6 text-muted">{dataSourceCopy}</p>
             </div>
           </div>
         </div>
       </section>
 
-      <StyleShowcase dimension={typedDimension} styles={styles} />
+      <StyleShowcase
+        curatorNotes={dimensionCuratorNotes}
+        dimension={typedDimension}
+        styles={styles}
+      />
     </main>
   );
 }

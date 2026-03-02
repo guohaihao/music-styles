@@ -28,3 +28,12 @@ export type StyleRecord = {
   auto_description: string;
   manual_description: string;
 };
+
+export type CuratorStyleNote = {
+  badge?: string;
+  signature?: string;
+  z_summary?: string;
+  manual_description?: string;
+};
+
+export type CuratorNotes = Partial<Record<Dimension, Record<string, CuratorStyleNote>>>;

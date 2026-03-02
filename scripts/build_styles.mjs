@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -8,12 +8,7 @@ const rootDir = path.resolve(__dirname, "..");
 const medoidsDir = path.join(rootDir, "Medoids");
 const outputDir = path.join(rootDir, "data");
 
-const DIMENSIONS = [
-  ["melody", "rep_vectors_melody-1112-v1.csv"],
-  ["harmony", "rep_vectors_harmony-1112-v1.csv"],
-  ["rhythm", "rep_vectors_rhythm-1112-v1.csv"],
-  ["timbre", "rep_vectors_timbre-1112-v1.csv"]
-];
+const DIMENSIONS = ["melody", "harmony", "rhythm", "timbre"];
 
 const EXCLUDED_FEATURES = new Set([
   "",
@@ -187,7 +182,33 @@ function computeFeatureStats(rows, featureColumns) {
   );
 }
 
-async function buildDimension(dimension, fileName) {
+async function resolveDimensionSourceFile(dimension) {
+  const entries = await readdir(medoidsDir);
+  const matches = entries.filter((entry) =>
+    new RegExp(`^rep_vectors_${dimension}-.+\\.csv$`, "i").test(entry)
+  );
+
+  if (matches.length === 0) {
+    throw new Error(`No CSV found for dimension "${dimension}" in ${medoidsDir}.`);
+  }
+
+  const rankedMatches = await Promise.all(
+    matches.map(async (fileName) => {
+      const filePath = path.join(medoidsDir, fileName);
+      const fileStat = await stat(filePath);
+      return {
+        fileName,
+        modifiedAtMs: fileStat.mtimeMs
+      };
+    })
+  );
+
+  rankedMatches.sort((a, b) => b.modifiedAtMs - a.modifiedAtMs || a.fileName.localeCompare(b.fileName));
+  return rankedMatches[0].fileName;
+}
+
+async function buildDimension(dimension) {
+  const fileName = await resolveDimensionSourceFile(dimension);
   const sourcePath = path.join(medoidsDir, fileName);
   const csvText = await readFile(sourcePath, "utf8");
   const [headers, ...records] = parseCsv(csvText);
@@ -244,10 +265,20 @@ async function buildDimension(dimension, fileName) {
     `${JSON.stringify(stylePayload, null, 2)}\n`,
     "utf8"
   );
+
+  return fileName;
 }
 
 async function main() {
-  await Promise.all(DIMENSIONS.map(([dimension, fileName]) => buildDimension(dimension, fileName)));
+  const builtFiles = await Promise.all(
+    DIMENSIONS.map(async (dimension) => ({
+      dimension,
+      fileName: await buildDimension(dimension)
+    }))
+  );
+  for (const { dimension, fileName } of builtFiles) {
+    console.log(`Built ${dimension} from ${fileName}`);
+  }
   console.log("Built style JSON files in ./data");
 }
 

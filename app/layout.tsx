@@ -6,7 +6,7 @@ import "./globals.css";
 import { formatDimensionLabel, getDimensions } from "@/lib/styles";
 
 export const metadata: Metadata = {
-  title: "JMP Style Atlas",
+  title: "Historical Musical Styles Showcase",
   description: "A Next.js showcase of Billboard style clusters across melody, harmony, rhythm, and timbre."
 };
 
@@ -31,7 +31,7 @@ export default function RootLayout({
           <header className="glass-panel mb-8 rounded-[28px] border border-line px-5 py-4 shadow-panel sm:px-6">
             <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
               <Link href="/" className="max-w-xl">
-                <p className="font-display text-2xl tracking-tight text-ink">JMP Style Atlas</p>
+                <p className="font-display text-2xl tracking-tight text-ink">Historical Musical Styles Showcase</p>
                 <p className="mt-1 text-sm text-muted">
                   Billboard patterns across melody, harmony, rhythm, and timbre from 1958 to 2017.
                 </p>

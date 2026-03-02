@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 
-import type { Dimension, StyleRecord } from "@/lib/types";
+import type { CuratorNotes, Dimension, StyleRecord } from "@/lib/types";
 
 const DIMENSIONS: Dimension[] = ["melody", "harmony", "rhythm", "timbre"];
 const DIMENSION_THEMES = {
@@ -67,5 +67,16 @@ export async function getStylesForDimension(dimension: Dimension): Promise<Style
     throw new Error(
       `Missing generated data for ${dimension}. Run "npm run build:styles" first. ${message}`
     );
+  }
+}
+
+export async function getCuratorNotes(): Promise<CuratorNotes> {
+  const filePath = path.join(process.cwd(), "public", "curator_notes.json");
+
+  try {
+    const content = await readFile(filePath, "utf8");
+    return JSON.parse(content) as CuratorNotes;
+  } catch {
+    return {};
   }
 }

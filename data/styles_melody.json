@@ -43,11 +43,29 @@
         ]
       },
       {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Will You Still Love Me Tomorrow",
+            "performer": "Dave Mason"
+          }
+        ]
+      },
+      {
         "year": 1983,
         "songs": [
           {
             "song_title": "Thin Line Between Love And Hate",
             "performer": "Pretenders"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "Alphabet St.",
+            "performer": "Prince"
           }
         ]
       },
@@ -97,7 +115,7 @@
         ]
       }
     ],
-    "auto_description": "Style 1 shows higher-than-average n peaks (+1.26), step range (+1.19), mode cos (+0.68) and lower-than-average pitch mean (-1.17), IOI mean (-0.10).",
+    "auto_description": "Style 1 shows higher-than-average Unnamed: 0 (+2.00), step range (+1.20), n peaks (+0.78) and lower-than-average pitch mean (-1.06), IOI mean (-0.07).",
     "manual_description": ""
   },
   {
@@ -216,14 +234,14 @@
         ]
       }
     ],
-    "auto_description": "Style 2 shows higher-than-average pitch mean (+0.94), n peaks (+0.60), mode sin (+0.27) and lower-than-average mode cos (-0.84), step range (-0.48), IOI mean (-0.05).",
+    "auto_description": "Style 2 shows higher-than-average Unnamed: 0 (+1.67), pitch mean (+1.26), n peaks (+0.28) and lower-than-average step range (-1.05), mode cos (-0.94), IOI mean (-0.03).",
     "manual_description": ""
   },
   {
     "style_id": 3,
     "year_range": {
       "start": 1958,
-      "end": 1988
+      "end": 2013
     },
     "timeline": [
       {
@@ -272,6 +290,15 @@
         ]
       },
       {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "You're Only Human (Second Wind)",
+            "performer": "Billy Joel"
+          }
+        ]
+      },
+      {
         "year": 1988,
         "songs": [
           {
@@ -279,18 +306,72 @@
             "performer": "Don Henley"
           }
         ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Hold On",
+            "performer": "Jamie Walters"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "If You Ever Have Forever In Mind",
+            "performer": "Vince Gill"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Wind It Up",
+            "performer": "Gwen Stefani"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "BB Good",
+            "performer": "Jonas Brothers"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "Hallelujah",
+            "performer": "Leonard Cohen"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 3 shows higher-than-average step range (+1.02), mode cos (+0.93), n peaks (+0.26) and lower-than-average pitch mean (-1.36), repeat ratio (-0.04), triad percentage (-0.01).",
+    "auto_description": "Style 3 shows higher-than-average step range (+1.03), mode cos (+0.89), n peaks (+0.53) and lower-than-average Unnamed: 0 (-8.67), pitch mean (-1.95), mode sin (-0.14).",
     "manual_description": ""
   },
   {
     "style_id": 4,
     "year_range": {
-      "start": 1963,
+      "start": 1958,
       "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "Plain Jane",
+            "performer": "Bobby Darin"
+          }
+        ]
+      },
       {
         "year": 1963,
         "songs": [
@@ -391,16 +472,25 @@
         ]
       }
     ],
-    "auto_description": "Style 4 shows higher-than-average pitch mean (+0.44), IOI mean (+0.18) and lower-than-average n peaks (-2.01), step range (-1.35), mode sin (-1.14).",
+    "auto_description": "Style 4 shows higher-than-average Unnamed: 0 (+3.86), pitch mean (+0.53), IOI mean (+0.19) and lower-than-average n peaks (-2.30), step range (-1.55), mode sin (-1.24).",
     "manual_description": ""
   },
   {
     "style_id": 5,
     "year_range": {
-      "start": 1963,
-      "end": 1973
+      "start": 1958,
+      "end": 2013
     },
     "timeline": [
+      {
+        "year": 1958,
+        "songs": [
+          {
+            "song_title": "I Told Myself A Lie",
+            "performer": "Clyde McPhatter"
+          }
+        ]
+      },
       {
         "year": 1963,
         "songs": [
@@ -427,9 +517,81 @@
             "performer": "Orleans"
           }
         ]
+      },
+      {
+        "year": 1978,
+        "songs": [
+          {
+            "song_title": "Make That Move",
+            "performer": "Shalamar"
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "songs": [
+          {
+            "song_title": "Talk Dirty To Me",
+            "performer": "Poison"
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "songs": [
+          {
+            "song_title": "The Rumour",
+            "performer": "Olivia Newton-John"
+          }
+        ]
+      },
+      {
+        "year": 1993,
+        "songs": [
+          {
+            "song_title": "Return To Innocence",
+            "performer": "Enigma"
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "songs": [
+          {
+            "song_title": "When You Believe",
+            "performer": "Whitney Houston & Mariah Carey"
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "songs": [
+          {
+            "song_title": "Put That Woman First",
+            "performer": "Jaheim"
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "songs": [
+          {
+            "song_title": "Footloose",
+            "performer": "Blake Shelton"
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "songs": [
+          {
+            "song_title": "What The World Needs Now Is Love",
+            "performer": "Broadway For Orlando"
+          }
+        ]
       }
     ],
-    "auto_description": "Style 5 shows higher-than-average pitch mean (+1.21), step range (+0.86), mode sin (+0.81) and lower-than-average mode cos (-0.16), IOI mean (-0.12), repeat ratio (-0.08).",
+    "auto_description": "Style 5 shows higher-than-average pitch mean (+1.22), mode sin (+0.71), n peaks (+0.70) and lower-than-average Unnamed: 0 (-10.17), mode cos (-0.27), IOI mean (-0.08).",
     "manual_description": ""
   }
 ]

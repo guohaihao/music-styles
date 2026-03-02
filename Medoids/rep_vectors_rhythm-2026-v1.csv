@@ -1,0 +1,61 @@
+,bucket_year,style_id,Unnamed: 0,tempo_bpm,time_signature,swing,cluster_id,intra_sd,cluster_size,song_title,performer,is_representative,major,is_new_style,rhythm_regular,rep_source
+0,1958,3,0.0,99.4,3/4,1.0,0.0,0.1345447362133284,591.0,One Summer Night,The Danleers,0.0,1.0,0.0,0.0,medoid
+1,1958,2,1.0,83.4,4/4,1.0,1.0,0.0583290738649868,961.0,Light Of Love,Peggy Lee,0.0,1.0,0.0,1.0,medoid
+2,1958,1,2.0,86.1,4/4,0.0,2.0,0.1218497023518976,856.0,Look Who's Blue,Don Gibson,0.0,1.0,1.0,1.0,medoid
+3,1958,5,,99.4,3/4,0.0,,,201.0,Blue Boy,Jim Reeves,,,,,top1
+4,1958,4,,117.5,4/4,0.0,,,299.0,Cannonball,Duane Eddy His Twangy Guitar And The Rebels,,,,,top1
+5,1963,3,3.0,101.3,3/4,1.0,0.0,0.1333814252811307,550.0,Young Lovers,Paul and Paula,0.0,1.0,0.0,0.0,medoid
+6,1963,2,5.0,90.7,4/4,1.0,2.0,0.0394055200557537,1385.0,How Can I Forget,Ben E. King,0.0,1.0,0.0,1.0,medoid
+7,1963,1,4.0,89.1,4/4,0.0,1.0,0.1007049527541299,1193.0,Pleasant Valley Sunday,The Monkees,0.0,1.0,1.0,1.0,medoid
+8,1963,5,,99.4,3/4,0.0,,,200.0,Since I Found A New Love,Little Johnny Taylor,,,,,top1
+9,1963,4,,117.5,4/4,0.0,,,490.0,One Fine Day,The Chiffons,,,,,top1
+10,1968,3,6.0,97.5,3/4,1.0,0.0,0.0756827086917154,273.0,Tiny Dancer,Elton John,0.0,1.0,0.0,0.0,medoid
+11,1968,2,9.0,92.3,4/4,1.0,3.0,0.0452525117953301,939.0,Apologize,Ed Ames,0.0,1.0,0.0,1.0,medoid
+12,1968,1,7.0,92.3,4/4,0.0,1.0,0.042955844779337,1340.0,Jumbo,Bee Gees,0.0,1.0,1.0,1.0,medoid
+13,1968,5,8.0,99.4,3/4,0.0,2.0,0.0928683965170808,232.0,Out In The Country,Three Dog Night,0.0,0.0,1.0,0.0,medoid
+14,1968,4,,117.5,4/4,0.0,,,581.0,Looking For A Fox,Clarence Carter,,,,,top1
+15,1973,3,13.0,95.7,3/4,1.0,3.0,0.0823106904004359,134.0,Rock 'N Roll (I Gave You The Best Years of My Life),Kevin Johnson,0.0,1.0,0.0,0.0,medoid
+16,1973,2,11.0,86.1,4/4,1.0,1.0,0.0417706918267173,665.0,Behind Closed Doors,Charlie Rich,0.0,1.0,0.0,1.0,medoid
+17,1973,1,12.0,97.5,4/4,0.0,2.0,0.0420224927001439,1305.0,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,0.0,1.0,1.0,1.0,medoid
+18,1973,5,10.0,90.7,3/4,0.0,0.0,0.1041282618515786,140.0,Listen To The Buddha,Ozo,0.0,0.0,1.0,0.0,medoid
+19,1973,4,,117.5,4/4,0.0,,,606.0,My Mistake (Was To Love You),Diana Ross & Marvin Gaye,,,,,top1
+20,1978,3,17.0,94.0,3/4,1.0,3.0,0.092132118224971,107.0,On The Way To The Sky,Neil Diamond,0.0,1.0,0.0,0.0,medoid
+21,1978,2,14.0,89.1,4/4,1.0,0.0,0.0351107195057007,613.0,It's Late,Queen,1.0,1.0,0.0,1.0,medoid
+22,1978,1,16.0,64.6,4/4,0.0,2.0,0.0493334893178143,592.0,The Wanderer,Leif Garrett,0.0,1.0,1.0,1.0,medoid
+23,1978,5,18.0,97.5,3/4,0.0,4.0,0.0571082767510017,103.0,Sweetheart,Franke & The Knockouts,1.0,0.0,1.0,0.0,medoid
+24,1978,4,15.0,117.5,4/4,0.0,1.0,0.0349198274679541,577.0,The Very Best In You,Change,0.0,0.0,0.0,1.0,medoid
+25,1983,3,,99.4,3/4,1.0,,,42.0,Could've Been,Tiffany,,,,,top1
+26,1983,2,20.0,82.0,4/4,1.0,1.0,0.0880387564817126,478.0,(You Can Still) Rock In America,Night Ranger,0.0,1.0,0.0,1.0,medoid
+27,1983,1,21.0,63.0,4/4,0.0,2.0,0.0381581869835981,614.0,The Blues,Randy Newman & Paul Simon,0.0,1.0,1.0,1.0,medoid
+28,1983,5,22.0,69.8,3/4,0.0,3.0,0.1255643725451697,110.0,Escalator Of Life,Robert Hazard,0.0,0.0,1.0,0.0,medoid
+29,1983,4,19.0,110.0,4/4,0.0,0.0,0.047300701400707,688.0,The Honeythief,Hipsway,0.0,0.0,0.0,1.0,medoid
+30,1988,3,26.0,90.7,3/4,1.0,3.0,0.1202567656191509,53.0,Black Velvet,Alannah Myles,0.0,1.0,0.0,0.0,medoid
+31,1988,2,27.0,80.7,4/4,1.0,4.0,0.0465125980118583,362.0,Going Home,Kenny G,0.0,1.0,0.0,1.0,medoid
+32,1988,1,24.0,107.7,4/4,0.0,1.0,0.0296873960058193,765.0,Buffalo Stance,Neneh Cherry,1.0,1.0,1.0,1.0,medoid
+33,1988,5,23.0,94.0,3/4,0.0,0.0,0.0884599894108281,70.0,Silent Lucidity,Queensryche,0.0,0.0,1.0,0.0,medoid
+34,1988,4,25.0,61.5,4/4,0.0,2.0,0.0316344286618335,457.0,What You See Is What You Get,Brenda K. Starr,1.0,0.0,0.0,1.0,medoid
+35,1993,3,31.0,92.3,3/4,1.0,3.0,0.0507904208070638,55.0,Come With Me,Shai,1.0,1.0,0.0,0.0,medoid
+36,1993,2,30.0,86.1,4/4,1.0,2.0,0.0467783070100102,286.0,I Should Be Laughing,Patty Smyth,0.0,1.0,0.0,1.0,medoid
+37,1993,1,29.0,95.7,4/4,0.0,1.0,0.040695572114074,968.0,Murder She Wrote,Chaka Demus & Pliers,0.0,1.0,1.0,1.0,medoid
+38,1993,5,28.0,92.3,3/4,0.0,0.0,0.0856860947484154,63.0,Never Find Someone Like You,Keith Martin,0.0,0.0,1.0,0.0,medoid
+39,1993,4,,117.5,4/4,0.0,,,314.0,Step It Up,Stereo MC's,,,,,top1
+40,1998,3,34.0,84.7,3/4,1.0,2.0,0.0823627846594607,49.0,Fly (The Angel Song),The Wilkinsons,0.0,1.0,0.0,0.0,medoid
+41,1998,2,35.0,90.7,4/4,1.0,3.0,0.0398713606396748,423.0,Lost In You,Garth Brooks as Chris Gaines,0.0,1.0,0.0,1.0,medoid
+42,1998,1,33.0,95.7,4/4,0.0,1.0,0.0340511467781704,952.0,Reality,Elusion,0.0,1.0,1.0,1.0,medoid
+43,1998,5,32.0,101.3,3/4,0.0,0.0,0.0950702080583942,58.0,Put Me Down,Donell Jones,0.0,0.0,1.0,0.0,medoid
+44,1998,4,,117.5,4/4,0.0,,,319.0,Only If...,Enya,,,,,top1
+45,2003,3,38.0,90.7,3/4,1.0,2.0,0.0769565536382234,66.0,Flashing Lights,Kanye West Featuring Dwele,0.0,1.0,0.0,0.0,medoid
+46,2003,2,39.0,89.1,4/4,1.0,3.0,0.0387563329756857,514.0,Chrome,Trace Adkins,0.0,1.0,0.0,1.0,medoid
+47,2003,1,36.0,95.7,4/4,0.0,0.0,0.039357061139731,967.0,X Gon' Give It To Ya,DMX,0.0,1.0,1.0,1.0,medoid
+48,2003,5,37.0,101.3,3/4,0.0,1.0,0.0849973107346425,67.0,How You Want That,Loon Featuring Kelis,0.0,0.0,1.0,0.0,medoid
+49,2003,4,,117.5,4/4,0.0,,,388.0,In My Life,Juvenile Featuring Mannie Fresh,,,,,top1
+50,2008,3,43.0,95.7,3/4,1.0,3.0,0.0756498536050426,128.0,Pure Imagination,Glee Cast,0.0,1.0,0.0,0.0,medoid
+51,2008,2,42.0,86.1,4/4,1.0,2.0,0.0408902665409105,697.0,She's Country,Jason Aldean,0.0,1.0,0.0,1.0,medoid
+52,2008,1,41.0,92.3,4/4,0.0,1.0,0.0347605577711466,1119.0,I Won't Tell,Fat Joe Featuring J. Holiday,0.0,1.0,1.0,1.0,medoid
+53,2008,5,40.0,97.5,3/4,0.0,0.0,0.0785408918382311,123.0,My Apocalypse,Metallica,0.0,0.0,1.0,0.0,medoid
+54,2008,4,,117.5,4/4,0.0,,,430.0,Fly Like Me,Chingy Featuring Amerie,,,,,top1
+55,2013,3,46.0,97.5,3/4,1.0,2.0,0.0909956788316357,122.0,Make It Rain,Ed Sheeran,0.0,1.0,0.0,0.0,medoid
+56,2013,2,45.0,86.1,4/4,1.0,1.0,0.051734366305741,558.0,Demons,Imagine Dragons,0.0,1.0,0.0,1.0,medoid
+57,2013,1,47.0,95.7,4/4,0.0,3.0,0.0422648411586984,1102.0,All In My Head (Flex),Fifth Harmony Featuring Fetty Wap,0.0,1.0,1.0,1.0,medoid
+58,2013,5,44.0,103.4,3/4,0.0,0.0,0.0713759589336587,148.0,Bruises,Train Featuring Ashley Monroe,0.0,0.0,1.0,0.0,medoid
+59,2013,4,,117.5,4/4,0.0,,,427.0,Chloe (You're The One I Want),Emblem3,,,,,top1
